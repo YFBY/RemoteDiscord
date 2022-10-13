@@ -1,0 +1,10 @@
+{
+    "Discord": {
+        "InputChannel": 932250038682415104,
+        "OutputChannel": 1000303086037913610,
+        "Token": "OTMxNTMwMjM4ODg4OTEwODU4.GsxLVh.sNHmgtweg0XYG1drb9S526vEPAUvb_xsoQ5fKA"
+    },
+    "Servers": {
+        "mc": "cd ~/Server/MC/Vanilla/PaperServer0 && /usr/bin/java -jar -Xmx3G -Xms3G server.jar nogui"
+    }
+}
